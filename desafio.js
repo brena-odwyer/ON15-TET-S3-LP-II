@@ -1,4 +1,4 @@
-// Em verde é o que eu fiz antes da aula de quarta-feira, que não estava funcionando em nada, deixei aqui para mostrar meu raciocínio antes de fazermos juntas 
+// Comentado é o que eu fiz antes da aula de quarta-feira, que não estava funcionando em nada, deixei aqui para mostrar meu raciocínio antes de fazermos juntas 
 
 // clienteLilit
 // cliente1
