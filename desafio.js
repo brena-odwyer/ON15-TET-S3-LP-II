@@ -19,13 +19,13 @@ let clienteLilit = [
 // console.log(clienteLilit.lenght)
 
 
-const cliente1 = [
+let cliente1 = [
     {produto: 'Bolsa pequena', valor: 49.0}, 
     {produto: 'Cinto preto', valor: 22.0}, 
     {produto: 'Jaqueta Jeans', valor: 300.0}]
 // // console.log(cliente1.lenght)
 
-const cliente2 = [
+let cliente2 = [
     {produto: 'Calça preta', valor: 100.0}, 
     {produto: 'Blusa simples', valor: 35.0}, 
     {produto: 'Calça jeans clara', valor: 130.0}]
@@ -95,7 +95,7 @@ console.log(dataDaCompra)
 let notaFiscal = {
     "Valot total": valorTotal,
     "Desconto aplicado": descontoAplicado,
-    "Valor Final": valorFinal
+    "Valor Final": valorTotal - descontoAplicado
 }  
 
 if(quantidadeProdutos > 10 || valorFinal > 800.0) {
